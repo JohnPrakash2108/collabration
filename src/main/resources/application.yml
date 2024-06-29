@@ -23,7 +23,6 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: chattingapp001@gmail.com
     properties:
       mail:
         smtp:
